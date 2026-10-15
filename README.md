@@ -116,7 +116,7 @@ The primary objectives of this system are:
 ------------------------------------------------------------------------
 
 ## Project Structure
-
+'
 Project Tree
 ├── |
 |   |
@@ -216,7 +216,7 @@ Project Tree
 │       ├── supplier.html
 │       └── transaksi.html
 └── README.md
-
+'
 ------------------------------------------------------------------------
 
 ## Installation Guide
