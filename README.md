@@ -157,7 +157,7 @@ Create `.env` file:
 
 Server will run at:
 
-    http://localhost:3000
+    http://localhost:5000
 
 ------------------------------------------------------------------------
 
