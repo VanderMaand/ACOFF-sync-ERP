@@ -39,7 +39,7 @@ document.getElementById("loginForm").addEventListener("submit", async function (
       setSession(userSession);
 
       // redirect
-      window.location.href = "dashboard.html";
+      window.location.href = "../pages/dashboard.html";
 
     } else {
       showError(data.message || "Login gagal.");
@@ -64,5 +64,5 @@ function showError(msg) {
 // ==========================
 const sessionUser = getSession();
 if (sessionUser) {
-  window.location.href = "dashboard.html";
+  window.location.href = "../pages/dashboard.html";
 }
